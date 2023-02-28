@@ -1,10 +1,11 @@
 # Image-Resizer
 Resize images
 
-Help:
-usage: resizer.py [-h] Image_Name NewImage_Height NewImage_Width
+No dependencies
 
-Resize an image
+Run
+:
+python3 resizer.py [-h] Image_Name NewImage_Height NewImage_Width
 
 positional arguments:
   Image_Name       Name of the input image
